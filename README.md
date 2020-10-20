@@ -1,2 +1,6 @@
 # Data
-Data repository used for SwiTCh simulations
+Data repository used for SwiTCh simulations.
+
+Contains all data relative to cyties :
+- GTFS
+- OSM
